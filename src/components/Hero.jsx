@@ -33,7 +33,9 @@ const Hero = () => {
               <button className="btn btn-primary  ">
                 Download CV<span class="material-symbols-rounded">download</span>{" "}
               </button>
-              <button className="btn btn-neutral btn-outline">Scroll Down</button>
+             <a href="#about">
+                 <button className="btn btn-neutral btn-outline">Scroll Down</button>
+             </a>
             </div>
           </div>
         </div>
